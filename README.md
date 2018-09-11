@@ -3,8 +3,10 @@ This repository is the part of work in assignment 8 of WSP subject.
 
 ## Guest Section
 
+For guest, at homepage use can see all of the title on our database.
 ![homepage](./doc/guest/1home.png)
 
+You can click to the topic and read the information of it. You can also see who the author is, but you can't edit or delete any topic.
 ![article](./doc/guest/2article.png)
 
 ![try_to_edit](./doc/guest/3try_to_edit.png)
