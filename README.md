@@ -8,7 +8,7 @@ This repository is the part of work in assignment 8 of WSP subject.
 
 ![homepage](./doc/guest/2article.png)
 
-![homepage](./doc/guest/3try to edit.png)
+![homepage](./doc/guest/3try_to_edit.png)
 
 ![homepage](./doc/guest/4register.png)
 
