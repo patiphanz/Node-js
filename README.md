@@ -29,6 +29,6 @@ This repository is the part of work in assignment 8 of WSP subject.
 
 ![no_user_found](./doc/user/8no_user_found.png)
 
-## For account who isn't own article
+## For account who doesn't own article
 
 ![other_user_edit](./doc/user/other_account/1other_user_edit.png)
