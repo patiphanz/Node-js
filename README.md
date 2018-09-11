@@ -17,7 +17,7 @@ If you want to add your own article, you can register at register page.
 
 ## User Section
 
-This is the homepage for users after they login
+This is the homepage for users after they login.
 ![homepage](./doc/user/1home.png)
 
 In article page if this topic is your own, you can edit or delete it.
@@ -26,13 +26,13 @@ In article page if this topic is your own, you can edit or delete it.
 You can change title and contents of your article.
 ![edit_article](./doc/user/3edit_article.png)
 
-Or if you want to delete, you can delete it
+Or if you want to delete, you can delete it.
 ![delete_article](./doc/user/4delete_article.png)
 
-For user who want to add article you can click on "Add Article" at the top and you can create your own topic
+For user who want to add article you can click on "Add Article" at the top and you can create your own topic.
 ![add_article](./doc/user/5add_article.png)
 
-And when you click submit you will be redirect to homepage and get message "Article Added
+And when you click submit you will be redirect to homepage and get message "Article Added".
 ![add_article_success](./doc/user/6add_article_success.png)
 
 At login page, In case your user is correct but password isn't, you will get "Wrong password" message.
@@ -46,7 +46,7 @@ But in case your username isn't match any user in database, you will get "No use
 For other account who want to try to edit or delete the article that you don't own. you can't do it.
 ![other_user_edit](./doc/user/other_account/1other_user_edit.png)
 
-Or in case you want to try to force edit by put /edit in url you will be redirected to homepage and get "Not Authorized" message"
+Or in case you want to try to force edit by put /edit in url you will be redirected to homepage and get "Not Authorized" message".
 ![try_force_edit](./doc/user/other_account/2try_force_edit.png)
 
 ![force_edit_result](./doc/user/other_account/3force_edit_result.png)
