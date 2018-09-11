@@ -32,3 +32,7 @@ This repository is the part of work in assignment 8 of WSP subject.
 ## For account who doesn't own article
 
 ![other_user_edit](./doc/user/other_account/1other_user_edit.png)
+
+![try_force_edit](./doc/user/other_account/2try_force_edit.png)
+
+![force_edit_result](./doc/user/other_account/3force_edit_result.png)
