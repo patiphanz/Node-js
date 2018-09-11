@@ -13,18 +13,18 @@ This repository is the part of work in assignment 8 of WSP subject.
 
 ## User Section
 
-![homepage](./doc/guest/1home.png)
+![homepage](./doc/user/1home.png)
 
-![homepage](./doc/guest/2article.png)
+![homepage](./doc/user/2article.png)
 
-![homepage](./doc/guest/3edit_article.png)
+![homepage](./doc/user/3edit_article.png)
 
-![homepage](./doc/guest/4delete_article.png)
+![homepage](./doc/user/4delete_article.png)
 
-![homepage](./doc/guest/5add_article.png)
+![homepage](./doc/user/5add_article.png)
 
-![homepage](./doc/guest/6add_article_success.png)
+![homepage](./doc/user/6add_article_success.png)
 
-![homepage](./doc/guest/7wrong_password.png)
+![homepage](./doc/user/7wrong_password.png)
 
-![homepage](./doc/guest/8no_user_found.png)
+![homepage](./doc/user/8no_user_found.png)
