@@ -9,8 +9,10 @@ For guest, at homepage use can see all of the title on our database.
 You can click to the topic and read the information of it. You can also see who the author is, but you can't edit or delete any topic.
 ![article](./doc/guest/2article.png)
 
+In case of you want to try to force edit by put /edit in url, you will be redirected to login page and you will get "Please Login" message.
 ![try_to_edit](./doc/guest/3try_to_edit.png)
 
+If you want to add your own article you can register at register page.
 ![register](./doc/guest/4register.png)
 
 ## User Section
